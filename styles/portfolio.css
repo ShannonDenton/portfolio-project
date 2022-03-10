@@ -1,8 +1,8 @@
 :root {
-  --branding-color: #6c63ff;
+  --branding-color: #66b032;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
-  --secondary-color: #f9f7fe;
+  --secondary-color: #f9dadd;
 }
 
 body {
@@ -97,13 +97,14 @@ footer .email-link:hover {
 }
 
 footer .social-links a {
-  margin: 0 20px;
+  margin: 0 10px;
   color: var(--branding-color);
   background: var(--secondary-color);
   padding: 10px 14px;
   transition: all 100ms ease-in-out;
   font-size: 18px;
   border-radius: 50px;
+  text-decoration: none;
 }
 
 footer .social-links a:hover {
@@ -132,7 +133,7 @@ footer .social-links a:hover {
 }
 
 .content-container {
-  padding: 50px 20px;
+  padding: 0px 20px;
 }
 
 .content h1 {
@@ -184,6 +185,7 @@ footer .social-links a:hover {
 
 img {
   border-radius: 22px;
+  border: 3px solid #66b032;
 }
 
 @media (max-width: 900px) {
