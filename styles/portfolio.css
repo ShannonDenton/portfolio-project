@@ -2,7 +2,7 @@
   --branding-color: #66b032;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
-  --secondary-color: #f9dadd;
+  --secondary-color: #f9e8e9;
 }
 
 body {
@@ -183,7 +183,7 @@ footer .social-links a:hover {
   padding: 120px 60px;
 }
 
-img {
+img.project-image {
   border-radius: 22px;
   border: 3px solid #66b032;
 }
