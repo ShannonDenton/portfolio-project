@@ -60,7 +60,7 @@ nav li {
 
 nav a {
   text-decoration: none;
-  color: #272142;
+  color: black;
   transition: all 100ms ease-in-out;
 }
 
@@ -122,7 +122,7 @@ footer .social-links a:hover {
   font-size: 36px;
   font-weight: bold;
   margin: 0;
-  color: #272142;
+  color: black;
 }
 
 .hero h2 {
@@ -185,7 +185,7 @@ footer .social-links a:hover {
 
 img.project-image {
   border-radius: 22px;
-  border: 3px solid #66b032;
+  border: 2px solid #d6d6d6;
 }
 
 @media (max-width: 900px) {
